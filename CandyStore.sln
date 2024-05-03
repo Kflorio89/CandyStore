@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandyStore", "CandyStore\CandyStore\CandyStore.csproj", "{9C9BB2DF-0025-4107-B5DF-6CA3267284C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandyStore.Client", "CandyStore\CandyStore.Client\CandyStore.Client.csproj", "{FE71BB85-D45C-4BBB-B58E-0A1D922DF6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9BB2DF-0025-4107-B5DF-6CA3267284C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9BB2DF-0025-4107-B5DF-6CA3267284C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9BB2DF-0025-4107-B5DF-6CA3267284C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9BB2DF-0025-4107-B5DF-6CA3267284C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE71BB85-D45C-4BBB-B58E-0A1D922DF6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE71BB85-D45C-4BBB-B58E-0A1D922DF6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE71BB85-D45C-4BBB-B58E-0A1D922DF6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE71BB85-D45C-4BBB-B58E-0A1D922DF6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74EB2C57-D41A-4BDE-B728-9BB4D34B8366}
+	EndGlobalSection
+EndGlobal
